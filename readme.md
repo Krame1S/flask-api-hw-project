@@ -29,7 +29,9 @@ python main.py
 ## Request Examples
 
 GET: http://127.0.0.1:5000/ping (healthcheck, no request body)
+
 GET: http://127.0.0.1:5000/blogpost (no request body)
+
 POST: http://127.0.0.1:5000/blogpost
 
 ```json
